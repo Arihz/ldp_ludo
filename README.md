@@ -1,1 +1,0 @@
-# ldp_ludo
